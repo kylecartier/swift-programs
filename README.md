@@ -1,2 +1,2 @@
-# Swif-Programs
+# Swift-Programs
 This will be implied for Swift programs.
